@@ -1,0 +1,98 @@
+RMSE (validation) = 0.7360075674524954 for the model trained with rank = 10, lambda = 0.01, and numIter = 5.
+RMSE (validation) = 0.5621077510551525 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 0.3641728169557543 for the model trained with rank = 10, lambda = 0.01, and numIter = 20.
+RMSE (validation) = 0.5335910456250359 for the model trained with rank = 10, lambda = 0.03, and numIter = 5.
+RMSE (validation) = 0.34433986809547595 for the model trained with rank = 10, lambda = 0.03, and numIter = 10.
+RMSE (validation) = 0.2028373272880841 for the model trained with rank = 10, lambda = 0.03, and numIter = 20.
+RMSE (validation) = 0.45774299201538543 for the model trained with rank = 10, lambda = 0.05, and numIter = 5.
+RMSE (validation) = 0.29222080802691114 for the model trained with rank = 10, lambda = 0.05, and numIter = 10.
+RMSE (validation) = 0.16175556364898985 for the model trained with rank = 10, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 0.6514637878128569 for the model trained with rank = 15, lambda = 0.01, and numIter = 5.
+RMSE (validation) = 0.4798941429420901 for the model trained with rank = 15, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 0.2879568814478172 for the model trained with rank = 15, lambda = 0.01, and numIter = 20.
+RMSE (validation) = 0.4729453224705074 for the model trained with rank = 15, lambda = 0.03, and numIter = 5.
+RMSE (validation) = 0.3006674981807375 for the model trained with rank = 15, lambda = 0.03, and numIter = 10.
+RMSE (validation) = 0.1581231846576675 for the model trained with rank = 15, lambda = 0.03, and numIter = 20.
+RMSE (validation) = 0.41778276457132874 for the model trained with rank = 15, lambda = 0.05, and numIter = 5.
+RMSE (validation) = 0.24627705901536576 for the model trained with rank = 15, lambda = 0.05, and numIter = 10.
+RMSE (validation) = 0.1397722309512419 for the model trained with rank = 15, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 0.6066773239469658 for the model trained with rank = 20, lambda = 0.01, and numIter = 5.
+RMSE (validation) = 0.4418294714266407 for the model trained with rank = 20, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 0.26918016501657505 for the model trained with rank = 20, lambda = 0.01, and numIter = 20.
+RMSE (validation) = 0.43167263924380145 for the model trained with rank = 20, lambda = 0.03, and numIter = 5.
+RMSE (validation) = 0.2790566733359047 for the model trained with rank = 20, lambda = 0.03, and numIter = 10.
+RMSE (validation) = 0.1476054572318528 for the model trained with rank = 20, lambda = 0.03, and numIter = 20.
+RMSE (validation) = 0.385717503880807 for the model trained with rank = 20, lambda = 0.05, and numIter = 5.
+RMSE (validation) = 0.24930044821564235 for the model trained with rank = 20, lambda = 0.05, and numIter = 10.
+RMSE (validation) = 0.13301790616925405 for the model trained with rank = 20, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 0.5834024635908335 for the model trained with rank = 25, lambda = 0.01, and numIter = 5.
+RMSE (validation) = 0.41581742590339754 for the model trained with rank = 25, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 0.24415344962404767 for the model trained with rank = 25, lambda = 0.01, and numIter = 20.
+RMSE (validation) = 0.4271934735860409 for the model trained with rank = 25, lambda = 0.03, and numIter = 5.
+RMSE (validation) = 0.2702406861190123 for the model trained with rank = 25, lambda = 0.03, and numIter = 10.
+RMSE (validation) = 0.1453831311219027 for the model trained with rank = 25, lambda = 0.03, and numIter = 20.
+RMSE (validation) = 0.37750255710424274 for the model trained with rank = 25, lambda = 0.05, and numIter = 5.
+RMSE (validation) = 0.23938814262908129 for the model trained with rank = 25, lambda = 0.05, and numIter = 10.
+RMSE (validation) = 0.1346757430775574 for the model trained with rank = 25, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 0.567676172396468 for the model trained with rank = 30, lambda = 0.01, and numIter = 5.
+RMSE (validation) = 0.40499637222029017 for the model trained with rank = 30, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 0.2416253055932028 for the model trained with rank = 30, lambda = 0.01, and numIter = 20.
+RMSE (validation) = 0.4147782366392413 for the model trained with rank = 30, lambda = 0.03, and numIter = 5.
+RMSE (validation) = 0.25334710291201634 for the model trained with rank = 30, lambda = 0.03, and numIter = 10.
+RMSE (validation) = 0.14295277638729847 for the model trained with rank = 30, lambda = 0.03, and numIter = 20.
+RMSE (validation) = 0.3751878632555239 for the model trained with rank = 30, lambda = 0.05, and numIter = 5.
+RMSE (validation) = 0.2246350931068781 for the model trained with rank = 30, lambda = 0.05, and numIter = 10.
+RMSE (validation) = 0.13077659224141325 for the model trained with rank = 30, lambda = 0.05, and numIter = 20.
+The best model was trained with rank = 30 and lambda = 0.05, and numIter = 20, and its RMSE on the test set is 0.13121414235511758.
+Authors recommended for author with id 2, format(authorid, recommend authorid, likelihood):
+(2,69,0.9537912992961237)
+(2,33,0.9537733908470782)
+(2,76,0.9537681739381699)
+(2,53,0.9537655908380562)
+(2,90,0.953725408929529)
+(2,83,0.9532109174075419)
+(2,64,0.9530961863858556)
+(2,35,0.953032443531237)
+(2,11217,0.9525633309274467)
+(2,31,0.9522334074730924)
+(2,63,0.9522334074730924)
+(2,6158,0.9521776549202052)
+(2,81,0.9520642337591418)
+(2,45,0.9513596415691217)
+(2,42734,0.9512865632922631)
+(2,89749,0.951224111292378)
+(2,53350,0.9510498300470972)
+(2,25,0.9510314952132661)
+(2,84,0.9509457496544143)
+(2,1193,0.9508716113524828)
+(2,47291,0.9507210030125035)
+(2,89753,0.950411803560995)
+(2,99,0.9503303210653539)
+(2,66,0.9502970010309261)
+(2,89,0.95025404552665)
+(2,22776,0.9501618163169143)
+(2,71,0.949981679189487)
+(2,94,0.9498235970536444)
+(2,24663,0.9498180981975668)
+(2,72,0.9498079349131344)
+(2,30224,0.949756577432597)
+(2,54729,0.9496708397495762)
+(2,54728,0.9496708397495762)
+(2,10255,0.949586617831639)
+(2,87,0.9494357009512279)
+(2,28,0.9492516014300117)
+(2,27,0.9492516014300117)
+(2,18,0.9492516014300117)
+(2,52,0.9492516014300117)
+(2,56,0.9492516014300117)
+(2,20,0.9492516014300117)
+(2,91,0.9492516014300117)
+(2,21,0.9492516014300117)
+(2,44,0.9492516014300117)
+(2,102,0.9492516014300117)
+(2,105,0.9492516014300117)
+(2,51,0.9492516014300117)
+(2,26,0.9492516014300117)
+(2,73,0.9492516014300117)
+(2,48,0.9492516014300117)
+30  0.05 20 0.13121414235511758
